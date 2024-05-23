@@ -4,7 +4,7 @@ import DemoBar from './demobar';
 // eslint-disable-next-line no-unused-vars
 import FormBuilder, { Registry } from './src/index';
 import * as variables from './variables';
-
+import 'rc-slider/assets/index.css';
 // Add our stylesheets for the demo.
 require('./scss/application.scss');
 
